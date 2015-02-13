@@ -1,7 +1,9 @@
-# PayPalJfc
+# Spring-MVC base.
 
-This is the first step for a simple tutorial to create a Paypal integration with a Spring-MVC webapp.
+Este proyecto pretende hacer de base para montar diferentes proyectos Spring-MVC de forma rápida. 
+Clonando el proyecto se tiene acceso a diferentes formas de empezar con un proyecto Spring-MVC.
+La forma de organizar los diferentes tipos de proyecto ha sido mediante ramas. De forma que cada una añade cierta funcionalidad
 
-This step just create a simple helloworld over Spring-mvc.
+Para crear el proyecto basta con importarlo como un proyecto maven en Eclipse.
 
-To create the project, you have to import it as a maven project into eclipse.
+La rama master tiene un "hello world" típico en Spring-MVC
